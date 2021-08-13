@@ -2,7 +2,8 @@
 Interactive streamlit application for processing and analyzing fish data.
 
 A Makefile is provided to setup a virtual environment - type
-```make
+```
+make
 ```
 
 To activate the virtual environment
