@@ -1,0 +1,8 @@
+pylint
+pytest
+streamlit
+pandas
+numpy
+tableone
+sklearn
+matplotlib
